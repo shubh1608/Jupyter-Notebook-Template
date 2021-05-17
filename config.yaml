@@ -1,0 +1,3 @@
+loan_modelling_dataset_path: './dataset/Bank_Personal_Loan_Modelling.xlsx'
+loan_modelling_transformed_dataset_path: './dataset/Bank_Personal_Loan_Modelling_transformed.xlsx'
+model_store: './store/model/'
