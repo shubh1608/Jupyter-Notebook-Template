@@ -1,6 +1,7 @@
 # :notebook_with_decorative_cover: Jupyter-Notebook-Template
 Notebook Templates for quick prototyping of Machine Learning solutions.
 
+
 ## What's in the project?
 
 ### STEP :one:: Data Exploration
@@ -31,3 +32,22 @@ Notebook Templates for quick prototyping of Machine Learning solutions.
 * Search Techniques using [Scikit-Optimize](https://scikit-optimize.github.io/stable/)
 
 ### STEP :six:: Model Explanability using [SHAP](https://shap.readthedocs.io/en/latest/index.html)
+
+
+## TASKS
+TO-DO
+* TimeSeries Modelling 
+* Recommendation System 
+* Optimization Problem 
+* Feature Selection - Refer [here](https://www.udemy.com/course/feature-selection-for-machine-learning/) for details.
+* Optimise Thresholds for classification - Refer [here](https://pycaret.org/optimize-threshold/) for details.
+* Model Monitoring - Refer [here](https://www.kdnuggets.com/2021/03/machine-learning-model-monitoring-checklist.html#.YJjFXuPwex8.linkedin) for details.
+
+COMPLETED
+* EDA Using LUX
+* Feature Engineering using Scikit-Learn and ImbLearn
+* Classification Template using Pycaret
+* Regression Template using Pycaret
+* Clustering using Pycaret
+* Anomaly Detection using Pycaret
+* Hyperparameter Optmization using Scikit-Learn & Scikit-Optimize
