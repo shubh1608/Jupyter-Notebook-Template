@@ -51,3 +51,5 @@ COMPLETED
 * Clustering using Pycaret
 * Anomaly Detection using Pycaret
 * Hyperparameter Optmization using Scikit-Learn & Scikit-Optimize
+
+Resources are mentioned in more details in document [here](https://docs.google.com/document/d/1EUufNzEEAYReBU1ntiBtwI5ost71MV5AW1QZSmhUFQ0/edit?usp=sharing).
