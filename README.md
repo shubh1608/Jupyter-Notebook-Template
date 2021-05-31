@@ -39,7 +39,6 @@ TO-DO
 * TimeSeries Modelling 
 * Recommendation System 
 * Optimization Problem 
-* Feature Selection - Refer [here](https://www.udemy.com/course/feature-selection-for-machine-learning/) for details.
 * Optimise Thresholds for classification - Refer [here](https://pycaret.org/optimize-threshold/) for details.
 * Model Monitoring - Refer [here](https://www.kdnuggets.com/2021/03/machine-learning-model-monitoring-checklist.html#.YJjFXuPwex8.linkedin) for details.
 
@@ -51,5 +50,6 @@ COMPLETED
 * Clustering using Pycaret
 * Anomaly Detection using Pycaret
 * Hyperparameter Optmization using Scikit-Learn & Scikit-Optimize
+* Feature Selection - Refer [here](https://www.udemy.com/course/feature-selection-for-machine-learning/) for details.
 
 Resources are mentioned in more details in document [here](https://docs.google.com/document/d/1EUufNzEEAYReBU1ntiBtwI5ost71MV5AW1QZSmhUFQ0/edit?usp=sharing).
