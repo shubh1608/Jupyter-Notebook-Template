@@ -39,6 +39,10 @@ TO-DO
 * TimeSeries Modelling 
 * Recommendation System 
 * Optimization Problem 
+* Clusterig - Extend the models list, currently pycaret clustering module is used which is limited.
+* Explanaible AI
+* Neural Networks
+* Demensionality Reduction
 * Optimise Thresholds for classification - Refer [here](https://pycaret.org/optimize-threshold/) for details.
 * Model Monitoring - Refer [here](https://www.kdnuggets.com/2021/03/machine-learning-model-monitoring-checklist.html#.YJjFXuPwex8.linkedin) for details.
 
