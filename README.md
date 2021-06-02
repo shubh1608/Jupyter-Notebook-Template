@@ -36,6 +36,7 @@ Notebook Templates for quick prototyping of Machine Learning solutions.
 
 ## TASKS
 TO-DO
+* EDA using Autoviz
 * TimeSeries Modelling 
 * Recommendation System 
 * Optimization Problem 
