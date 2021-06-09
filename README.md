@@ -49,6 +49,8 @@ TO-DO
 * Model Monitoring - Refer [here](https://www.kdnuggets.com/2021/03/machine-learning-model-monitoring-checklist.html#.YJjFXuPwex8.linkedin) for details.
 * Review and add if any Feature engineering step missed using github repo [here](https://github.com/ashishpatel26/Amazing-Feature-Engineering).
 * Add Multiple Time Series Forecasting method from pycaret, refer [here](https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe).
+* Include [Halving Grid Search](https://towardsdatascience.com/20x-times-faster-grid-search-cross-validation-19ef01409b7c)(20X times faster)
+* Include Market Risk code from code reference folder. 
 
 COMPLETED
 * EDA Using LUX
