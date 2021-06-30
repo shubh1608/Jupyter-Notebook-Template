@@ -51,6 +51,9 @@ TO-DO
 * Add Multiple Time Series Forecasting method from pycaret, refer [here](https://towardsdatascience.com/multiple-time-series-forecasting-with-pycaret-bc0a779a22fe).
 * Include [Halving Grid Search](https://towardsdatascience.com/20x-times-faster-grid-search-cross-validation-19ef01409b7c)(20X times faster)
 * Include Market Risk code from code reference folder. 
+* https://github.com/vaexio/vaex/
+* ChefBoost package
+* https://towardsdatascience.com/a-python-library-to-remove-collinearity-5a4eb05d3d73
 
 COMPLETED
 * EDA Using LUX
