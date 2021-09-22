@@ -54,6 +54,7 @@ TO-DO
 * https://github.com/vaexio/vaex/
 * ChefBoost package
 * https://towardsdatascience.com/a-python-library-to-remove-collinearity-5a4eb05d3d73
+* Explore AutoML frameworks here - https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021
 
 COMPLETED
 * EDA Using LUX
